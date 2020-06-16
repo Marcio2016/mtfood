@@ -20,7 +20,6 @@ public class Cozinha {
 	@EqualsAndHashCode.Include
 	private Long id;
 	
-	
 	private String nome;	
 	
 }
